@@ -82,3 +82,9 @@ node readfile.js
   ![](https://hackmd.io/_uploads/rJMZJJLGp.png)
 
 ### 完成 !
+---
+## 5.8.2024
+by MCXCC
+* Readfile.js is unavailable due to unknown reason in svgicons2svgfont (`Cannot read properties of undefined (reading 'height'`))
+* I used [svgs2font](https://github.com/MichealWayne/svgs2fonts) instead and it works well.
+* To use svgs2font, run `svgs2font {svgicons} final_font -n {fontName}`
